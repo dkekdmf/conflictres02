@@ -1,1 +1,1 @@
-Master git basics
+Master Git merging
