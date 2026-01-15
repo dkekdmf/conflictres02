@@ -1,1 +1,1 @@
-Master git branching
+Master Git branching and merging
